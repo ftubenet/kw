@@ -1,0 +1,27 @@
+{
+  "seasonal_content": {
+    "announcements": [
+      {
+        "label": "🎮 Welcome to Kwayl Puzzle – Solve beautiful scenes! 🧩",
+        "type": "ticker"
+      }
+    ],
+    "community": [
+      {
+        "title": "Telegram",
+        "icon": "send",
+        "url": "https://t.me/kwaylpuzzle"
+      },
+      {
+        "title": "Viber",
+        "icon": "chat_bubble",
+        "url": "viber://chat?number=09123456789"
+      },
+      {
+        "title": "Facebook",
+        "icon": "group",
+        "url": "https://www.facebook.com/kwaylpuzzle"
+      }
+    ]
+  }
+}
