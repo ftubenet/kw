@@ -8,9 +8,7 @@
       }
     ],
     "community": [
-        "label": "💬 Join Telegram",
-    "type": "url",
-    "url": "https://t.me/yourcommunity"
+      
     ]
   }
 }
