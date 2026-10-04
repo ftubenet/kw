@@ -8,7 +8,12 @@
       }
     ],
     "community": [
-      
+          {
+        "title": "Telegram",
+        "icon": "telegram",
+        "icon_url": "https://raw.githubusercontent.com/ftubenet/kw/refs/heads/main/icons/telegram.png",
+        "url": "https://t.me/winnerxx_bot"
+      }
     ]
   }
 }
