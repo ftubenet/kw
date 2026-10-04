@@ -2,6 +2,7 @@
   "seasonal_content": {
     "community_button_label": "COMMUNITY",
     "splash_logo_url": "https://raw.githubusercontent.com/ftubenet/kw/refs/heads/main/splash_logo.png",
+    "splash_duration_ms": 3000,
     "announcements": [
       {
         "label": "🎮 Welcome to Kwayl Puzzle – Solve beautiful scenes! 🧩",
