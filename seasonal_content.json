@@ -10,24 +10,6 @@
       }
     ],
     "community": [
-      {
-        "title": "Telegram",
-        "icon": "telegram",
-        "icon_url": "https://raw.githubusercontent.com/ftubenet/kw/refs/heads/main/icons/telegram.png",
-        "url": "https://t.me/kwaylpuzzle"
-      },
-      {
-        "title": "Viber",
-        "icon": "viber",
-        "icon_url": "https://raw.githubusercontent.com/ftubenet/kw/refs/heads/main/icons/viber.png",
-        "url": "viber://chat?number=09123456789"
-      },
-      {
-        "title": "Facebook",
-        "icon": "facebook",
-        "icon_url": "https://raw.githubusercontent.com/ftubenet/kw/refs/heads/main/icons/facebook.png",
-        "url": "https://www.facebook.com/kwaylpuzzle"
-      }
     ]
   }
 }
