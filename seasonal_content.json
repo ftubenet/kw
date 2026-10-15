@@ -1,15 +1,21 @@
 {
   "seasonal_content": {
     "community_button_label": "COMMUNITY",
-    "splash_logo_url": "https://raw.githubusercontent.com/ftubenet/kw/refs/heads/main/splash_logo.png",
+    "splash_logo_url": "https://i.pinimg.com/736x/c9/94/c3/c994c3eb1e2b0d73f7ed57179ad9e96a.jpg",
     "splash_duration_ms": 3000,
     "announcements": [
       {
-        "label": "🎮 Welcome to Kwayl Puzzle – Solve beautiful scenes! 🧩",
+        "label": "🎮 Welcome to Kwayl Puzzle – ဖရီးးးတ__သောင်းနဲ့ကစား 🧩",
         "type": "ticker"
       }
     ],
     "community": [
+         {
+        "title": "ကျွဲဂိမ်းကစားရန်နှိပ်ပါ",
+        "icon": "play",
+        "icon_url": "https://i.pinimg.com/736x/d1/34/2c/d1342c55b1a681b981560a535d7e748e.jpg",
+        "url": "https://t.me/winnerxx_bot"
+      }
     ]
   }
 }
