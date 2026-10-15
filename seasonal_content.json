@@ -1,11 +1,12 @@
 {
   "seasonal_content": {
-    "community_button_label": "COMMUNITY",
+    "community_button_label": "ကစားရန်",
+    "maintenance": { "message": "Coming Soon" },
     "splash_logo_url": "https://i.pinimg.com/736x/c9/94/c3/c994c3eb1e2b0d73f7ed57179ad9e96a.jpg",
     "splash_duration_ms": 3000,
     "announcements": [
       {
-        "label": "🎮 Welcome to Kwayl Puzzle – ဖရီးးးတ__သောင်းနဲ့ကစား 🧩",
+        "label": "🎮 ဖရီးးးတ__သောင်းနဲ့ကစား Kwayl Puzzle 🧩",
         "type": "ticker"
       }
     ],
