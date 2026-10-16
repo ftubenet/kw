@@ -1,22 +1,16 @@
 {
   "seasonal_content": {
     "community_button_label": "PLAY",
-    "maintenance": { "message": "Coming Soon" },
     "splash_logo_url": "https://i.pinimg.com/736x/c9/94/c3/c994c3eb1e2b0d73f7ed57179ad9e96a.jpg",
     "splash_duration_ms": 3000,
     "announcements": [
       {
-        "label": "🎮 ဖရီးးးတ__သောင်းနဲ့ကစား Kwayl Puzzle 🧩",
+        "label": "🎮 Kwayl Puzzle 🧩",
         "type": "ticker"
       }
     ],
     "community": [
-         {
-        "title": "ကျွဲဂိမ်းကစားရန်နှိပ်ပါ",
-        "icon": "play",
-        "icon_url": "https://raw.githubusercontent.com/ftubenet/kw/refs/heads/main/telegram.png",
-        "url": "https://playstoremm.com/"
-      }
+       
     ]
   }
 }
